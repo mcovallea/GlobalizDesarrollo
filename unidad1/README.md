@@ -24,7 +24,7 @@ Teorías y perspectiva histórica del proceso de globalización; aproximaciones 
 
 [Samir Amin: Geopolítica del imperialismo contemporáneo](5geopolíticadelimperialismocontemporáneo.pdf)
 
-[Ulrich Bech: ¿Qué es la globalización?](6queeslaglobalización.pdf)
+[Ulrich Bech: ¿Qué es la globalización?](6queeslaglobalización.PDF)
 
 
 
