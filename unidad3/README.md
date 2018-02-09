@@ -1,6 +1,6 @@
 # Asignatura Globalización, Desarrollo e Integración Regional
 
-## Unidad 2: America Latina: Integracionismo, Estados y distribución del poder. 
+## Unidad 3: America Latina: Integracionismo, Estados y distribución del poder. 
 
 #### Preguntas orientadoras:
 
