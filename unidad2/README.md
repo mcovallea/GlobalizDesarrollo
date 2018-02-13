@@ -16,6 +16,14 @@ Más allá del desarrollo.
 
 #### Lecturas: 
 
+[Samuel Sosa. Modernización, dependencia y sistema-mundo: los paradigmas del desarrollo latinoamericano y los desafíos del siglo XXI](1modernizacióndependenciaysistemamundo.pdf)
+
+[David Harvey. Breve historia del neoliberalismo](2brevehistoriadelneoliberalismopp9-44.pdf)
+
+[Immanuel Wallerstein. Análisis de sistemas-mundo: una introducción](3análisisdesistemasmundo_unaintroducción.pdf)
+
+[Edgar Morin. Más allá de la globalización](4másalládelaglobalización.pdf)
+
 
 
 
