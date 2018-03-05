@@ -14,17 +14,25 @@ Teorías y perspectiva histórica del proceso de globalización; aproximaciones 
 
 #### Lecturas: 
 
-[Victor Marques dos Santos: Sobre el concepto de globalización](1sobreelconceptodeglobazación.pdf)
+[Miguel Ángel Díaz Mier: Precisando el concepto de globalización](1concepto.pdf)
 
-[David Harvey: La globalización contemporánea](2laglobalizacióncontemporánea.pdf)
+[Ulrich Beck: ¿Qué es la globalización?](2queeslaglobaliz.pdf)
 
-[Mogobe Romose: Globalización y Ubuntu](3globalizaciónyubuntu.pdf)
+[David Harvey: La globalización contemporánea](3globalizcontemp.pdf)
 
-[Atilio Borón: Imperio e imperialismo. Una lectura crítica de Michael Hardt y Toni Negri](4imperioeimperialismo)
+[Mogobe Ramose: Globalización y Ubuntu](4ubuntu.pdf)
 
-[Samir Amin: Geopolítica del imperialismo contemporáneo](5geopolíticadelimperialismocontemporáneo.pdf)
+[Samir Amin: Geopolítica del imperialismo contemporáneo](5geopol.pdf)
 
-[Ulrich Bech: ¿Qué es la globalización?](6queeslaglobalización.PDF)
+#### Presentación: 
+
+[Presentación 1](ppt.pdf)
+
+#### Documentos de la asignatura: 
+
+[Acuerdo pedagógico](ACUERDO.pdf)
+
+[Microcurrículo](MICROCRR.pdf)
 
 
 
