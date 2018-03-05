@@ -16,7 +16,7 @@ Teorías y perspectiva histórica del proceso de globalización; aproximaciones 
 
 [Miguel Ángel Díaz Mier: Precisando el concepto de globalización](1concepto.pdf)
 
-[Ulrich Beck: ¿Qué es la globalización?](2queeslaglobaliz.pdf)
+[Ulrich Beck: ¿Qué es la globalización?](2beck.pdf)
 
 [David Harvey: La globalización contemporánea](3globalizcontemp.pdf)
 
