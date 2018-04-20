@@ -24,7 +24,9 @@ Más allá del desarrollo.
 
 [Edgar Morin. Más allá de la globalización](4másalládelaglobalización.pdf)
 
+#### Taller: 
 
+ [Taller 1 - Unidad 2](Taller 1 Unidad 2.pdf) 
 
 
 
