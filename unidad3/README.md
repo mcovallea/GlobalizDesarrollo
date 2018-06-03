@@ -18,6 +18,30 @@ Buscando alternativas a escala regional.
 
 #### Lecturas: 
 
+[Proyectos de integración regional sudamericana](3.1. Gardini. Proyectos de integración regional sudamericana_hacia una teoría de la convergencia regional.pdf)
+
+[Sobre la naturaleza de la integración regional](3.1. Orzayún. Sobre la naturaleza de la integración regional.pdf)
+
+[Colonialidad del poder y los desafíos a la integración regional en América Latina](3.1. Porto-Gonçalves e Quental. Colonialidade do poder e os desafios da integração regional na AL..pdf)
+
+[Del regionalismo abierto al regionalismo postliberal](3.1. Sanahuja. Del regionalismo abierto al regionalismo postliberal..pdf)
+
+#### Presentación: 
+
+[Presentación 3](Integración regional.pdf)
+
+#### Acuerdos de integración regional para análisis - Trabajo final: 
+
+[TLCAN](3.2.a. TLCAN.pdf)
+
+[TLC USA Colombia](3.2.b. TLC EUA-Colombia_primera parte y descargas separadas.pdf)
+
+[UNASUR](3.2.c. UNASUR.pdf)
+
+[ALBA](3.2.d. ALBA.pdf)
+
+[MERCOSUR](3.2.e. MERCOSUR.pdf)
+
 
 
 
