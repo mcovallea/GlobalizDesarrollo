@@ -24,11 +24,21 @@ Más allá del desarrollo.
 
 [Edgar Morin. Más allá de la globalización](4másalládelaglobalización.pdf)
 
+#### Sobre el Desarrollo Regional y las teorías del Desarrollo en la Globalización: 
+
+[El concepto de territorio](1elconceptodeterritorio.pdf)
+
+[Las bases teóricas de la planificación regional](2lasbasesteóricasdelaplanificaciónregional.pdf)
+
+[Modelos de desarrollo regional](3modelosdedesarrolloregional.pdf)
+
 #### Taller: 
 
 [Taller 1](Taller1Unidad2.pdf)
 
+#### Presentación de la unidad:
 
+[Presentación 2](Presentación 2.pdf)
 
  
 
